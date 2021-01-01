@@ -1,0 +1,20 @@
+[
+{
+"Class":"Engines",
+"Brand":"Yanmar",
+"Model":"3YM30AE",
+"Data":":Drain fuel tank50!0!250!365!!:Drain fuel/water" 
+},
+{
+"Class":"Engines",
+"Brand":"Yanmar",
+"Model":"2YM15",
+"Data":":Drain fuel tank50!0!250!365!!",
+},
+{
+"Class":"Engines",
+"Brand":"Yanmar",
+"Model":"2YM20",
+"Data":":Drain fuel tank50!0!250!365!!"
+}
+]
